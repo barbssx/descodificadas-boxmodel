@@ -1,0 +1,22 @@
+* {font-family: 'Sacramento', cursive;}
+
+div {
+    background-image: url("blue.jpeg");
+    border: 2rem solid rgb(25, 4, 219);
+    height: 400px;
+    width: 400px;
+    box-shadow:inset 5px 10px 10px 10px rgb(142, 180, 255);
+    background-size:cover;
+    margin: 100px auto;
+    outline: 2rem double rgb(0, 145, 255);
+    padding: 10px;
+    text-align: center;
+    
+}
+
+p { color: rgb(255, 234, 0);
+    font-size: 60px; 
+    margin-top: 160px;
+    font-weight: bold;   
+}
+
