@@ -1,5 +1,6 @@
 # descodificadas-boxmodel
 ## Descodificadas Trilha 1 2023-2
+###GitHub Pages : https://barbssx.github.io/descodificadas-boxmodel/
 Criando um site para reproduzir uma imagem usando configurações para Box Model.
 
 ###Imagem de referência para guiar a tarefa
